@@ -50,7 +50,7 @@ nav ul li:hover{
     width: 80%;
     border-radius: 10px;
     padding: 2vw;
-    /* background-image: url('dist/logo.svg.svg'); */
+    background: url('dist/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -109,7 +109,7 @@ nav ul li:hover{
     color: whitesmoke;
     font-size: large;
     font-weight: 700;
-    margin-left: 10vw;
+    margin-left: 5vw;
     font-family: 'Edu SA Beginner', sans-serif;
 }
 .songInfo img{
